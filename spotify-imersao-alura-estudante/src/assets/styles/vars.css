@@ -1,0 +1,14 @@
+/* root*/
+
+:root{
+    /* FONT */
+    --font-dm-sans: "DM Sans", sans-serif:
+
+    /* COLOR */
+    --bg-inco: #131313;
+    --bg-arrow-color:rgba(0,0,07);
+    --bg-header-search: #242424 ;
+    --cl-header-input:#fff;
+    --color-subscrib:#a7a7a7;
+    --color-header-login:#000;
+}
